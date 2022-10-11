@@ -5,7 +5,7 @@ You can download DIV2K dataset, from the following links : [test\_LR\_bicubic_X4
 
 Your directory structure for the dataset should look like this:
 ```
-DIV2K
+  DIV2K
       └── DIV2K_train_HR
       ├── DIV2K_train_LR_bicubic
       ├── DIV2K_valid_HR
