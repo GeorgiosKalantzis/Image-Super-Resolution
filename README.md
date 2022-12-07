@@ -14,3 +14,4 @@ Your directory structure for the dataset should look like this:
       └── DIV2K_valid_LR_bicubic
 ```
 #### Qualitative Results 
+![alt text](https://github.com/GeorgiosKalantzis/Image-Super-Resolution/blob/main/result.png?raw=true)
